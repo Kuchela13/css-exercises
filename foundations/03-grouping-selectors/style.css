@@ -1,0 +1,14 @@
+.us.we {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.us {
+    background-color: #000000;
+    color: #f8f4ee;
+    font-weight: bold;
+}
+
+.we {
+    background-color: #ffff4f;
+}
